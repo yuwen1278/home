@@ -25,13 +25,13 @@
   },
   {
     "name": "Weibo",
-    "icon": "/images/icon/Weibo.png",
+    "icon": "/images/icon/Weibo.svg",
     "tip": "网上冲浪 ~",
     "url": "https://weibo.com/u/5237586093"
   },
   {
     "name": "Steam",
-    "icon": "/images/icon/Steam.png",
+    "icon": "/images/icon/Steam.svg",
     "tip": "约一约 ？",
     "url": "https://steamcommunity.com/id/XiaoYaoMeow/"
   }
