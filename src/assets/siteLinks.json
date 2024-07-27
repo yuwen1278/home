@@ -36,7 +36,22 @@
   },
   {
     "icon": "Video",
-    "name": "一起看视频",
+    "name": "一起看",
     "link": "http://synctv.xiaoyaomeow.cn/"
+  },
+  {
+    "icon": "Video",
+    "name": "Memos",
+    "link": "http://memos.xiaoyaomeow.cn/"
+  },
+  {
+    "icon": "Video",
+    "name": "1Panel",
+    "link": "http://1panel.xiaoyaomeow.cn/"
+  },
+  {
+    "icon": "Video",
+    "name": "图床",
+    "link": "http://image.xiaoyaomeow.cn/"
   }
 ]
